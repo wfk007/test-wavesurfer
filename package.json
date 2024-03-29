@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "wangfukang <wangfukang@kuaishou.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "umi": "^4.1.5",
+    "vue": "^3.2.47",
+    "wavesurfer.js": "^7.7.5"
+  },
+  "devDependencies": {
+    "@umijs/preset-vue": "^4.1.5",
+    "typescript": "^5.0.3"
+  }
+}
