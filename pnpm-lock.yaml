@@ -12,8 +12,8 @@ dependencies:
     specifier: ^3.2.47
     version: registry.npmjs.org/vue@3.4.21(typescript@5.4.3)
   wavesurfer.js:
-    specifier: ^7.7.5
-    version: registry.npmjs.org/wavesurfer.js@7.7.5
+    specifier: ^7.7.7
+    version: registry.npmjs.org/wavesurfer.js@7.7.7
 
 devDependencies:
   '@umijs/preset-vue':
@@ -10081,10 +10081,10 @@ packages:
       glob-to-regexp: registry.npmjs.org/glob-to-regexp@0.4.1
       graceful-fs: registry.npmjs.org/graceful-fs@4.2.11
 
-  registry.npmjs.org/wavesurfer.js@7.7.5:
-    resolution: {integrity: sha512-LegTsXbIwbpAp4IbE+yltF+behavUp4OufpPHCWA+NYqv0+Y3T2M1y6MrdF/QmfYnb7ZiUsOLXtSHe2OhgCPiw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/wavesurfer.js/-/wavesurfer.js-7.7.5.tgz}
+  registry.npmjs.org/wavesurfer.js@7.7.7:
+    resolution: {integrity: sha512-cFnzxi6T6A5UH5CgiXCpV8KPgDvwzK5S3b54Hq1g+o1KzXH2CouavRj1ciwLBLXf6MK1eG9JnbhxF/1ppZ2iGQ==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/wavesurfer.js/-/wavesurfer.js-7.7.7.tgz}
     name: wavesurfer.js
-    version: 7.7.5
+    version: 7.7.7
     dev: false
 
   registry.npmjs.org/wbuf@1.7.3:

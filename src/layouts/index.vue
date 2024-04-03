@@ -7,6 +7,9 @@
       <li>
         <router-link to="/docs">Docs</router-link>
       </li>
+      <li>
+        <router-link to="/test-drag">test dragToSeek option</router-link>
+      </li>
     </ul>
     <router-view></router-view>
   </div>
